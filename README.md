@@ -25,8 +25,8 @@ This repository contains a social media application developed using React, tailo
 To run the application locally, follow these steps:
 
 ### Clone the repository:
-`git clone https://github.com/jiya9113/MyntraBuzz.git
-cd MyntraBuzz`
+`git clone https://github.com/jiya9113/MyntraBuzz.git`
+`cd MyntraBuzz`
 
 ### Install dependencies:
 `npm install`
