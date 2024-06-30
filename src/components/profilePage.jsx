@@ -8,12 +8,12 @@ import profilephoto from '../assets/profile_picture.jpeg';
 const postData = {
     "user": "Racoon",
     "username": "john_doe_001",
-    "avatar": "https://i.pravatar.cc/150?img=1",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
     "posts": [
       {
         "id": 1,
         "username": "john_doe_001",
-        "avatar": "https://i.pravatar.cc/150?img=50",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
         "image": "https://images.unsplash.com/photo-1551232864-3f0890e580d9",
         "content": "Had a great time at the park today! #sunnyday #fun",
         "timestamp": "2024-06-25T10:45:00Z",
@@ -34,7 +34,7 @@ const postData = {
       {
         "id": 2,
         "username": "john_doe_001",
-        "avatar": "https://i.pravatar.cc/150?img=50",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
         "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa",
         "content": "Just finished a 5k run. Feeling accomplished! #running #fitness",
         "timestamp": "2024-06-24T08:30:00Z",
@@ -55,7 +55,7 @@ const postData = {
       {
         "id": 3,
         "username": "john_doe_001",
-        "avatar": "https://i.pravatar.cc/150?img=50",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
         "image": "https://images.unsplash.com/photo-1585325796223-d02326506719",
         "content": "Trying out a new recipe today. Wish me luck! #cooking #foodie",
         "timestamp": "2024-06-23T18:00:00Z",
@@ -76,7 +76,7 @@ const postData = {
       {
         "id": 4,
         "username": "john_doe_001",
-        "avatar": "https://i.pravatar.cc/150?img=50",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
         "image": "https://images.unsplash.com/photo-1600073140807-88f78c4fb64b",
         "content": "Beautiful sunset today. #sunset #nature",
         "timestamp": "2024-06-22T20:15:00Z",
@@ -97,7 +97,7 @@ const postData = {
       {
         "id": 5,
         "username": "john_doe_001",
-        "avatar": "https://i.pravatar.cc/150?img=50",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
         "image": "https://images.unsplash.com/photo-1622122201640-3b34a4a49444",
         "content": "Reading a great book today. #reading #relaxing",
         "timestamp": "2024-06-21T14:00:00Z",
@@ -118,7 +118,7 @@ const postData = {
       {
         "id": 6,
         "username": "john_doe_001",
-        "avatar": "https://i.pravatar.cc/150?img=50",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
         "image": "https://images.unsplash.com/photo-1635866091268-87ca924abc9a",
         "content": "Exploring the city today. #adventure #citylife",
         "timestamp": "2024-06-20T09:00:00Z",
@@ -139,7 +139,7 @@ const postData = {
       {
         "id": 7,
         "username": "john_doe_001",
-        "avatar": "https://i.pravatar.cc/150?img=50",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
         "image": "https://images.unsplash.com/photo-1656258220193-acdd513286d9",
         "content": "Started a new project today. #work #productivity",
         "timestamp": "2024-06-19T10:00:00Z",
@@ -160,7 +160,7 @@ const postData = {
       {
         "id": 8,
         "username": "john_doe_001",
-        "avatar": "https://i.pravatar.cc/150?img=50",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
         "image": "https://images.unsplash.com/photo-1628527129104-de9a2ed36cfe",
         "content": "Having a relaxing evening. #chill #relax",
         "timestamp": "2024-06-18T19:00:00Z",
