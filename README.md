@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a social media application developed using React, tailored for the fashion community and inspired by Myntra. The application includes features for posts, profiles, events, and showcasing Outfit of the Day (OOTD).
 
-**Deployed Website Link:** [https://myntrabuzz.netlify.app ](https://fashionbuzzz.netlify.app)
+**Deployed Website Link:** https://fashionbuzzz.netlify.app
 
 ## Features
 **Posts:** Users can create, like, and comment on posts related to fashion trends, style tips, and personal experiences.
