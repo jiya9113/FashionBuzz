@@ -1,4 +1,4 @@
-# MyntraBuzz
+# FashionBuzz
 
 ## Overview
 This repository contains a social media application developed using React, tailored for the fashion community and inspired by Myntra. The application includes features for posts, profiles, events, and showcasing Outfit of the Day (OOTD).
