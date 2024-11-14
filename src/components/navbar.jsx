@@ -2,7 +2,8 @@ import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuIt
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 import { Outlet, Link } from 'react-router-dom';
 
-import mynLogo from '../assets/myntra-logo.png';
+import FBLogo   from '../assets/fasBuzz.png'
+
 
 const navigation = [
   { name: 'Profile', href: '/', current: true },
@@ -38,8 +39,8 @@ export default function Navbar() {
               <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
                 <div className="flex flex-shrink-0 items-center">
                   <img
-                    className="h-8 w-auto"
-                    src={mynLogo}
+                    className="h-12 w-auto"
+                    src={FBLogo}
                     alt="Your Company"
                   />
                 </div>
